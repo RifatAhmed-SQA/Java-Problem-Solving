@@ -29,7 +29,7 @@ This Java project consists of 15 fundamental algorithmic problems, designed to s
 ## How to run?
 - Java Development Kit (JDK) 
 - Terminal or IDE
-## Probelem Question and Output
+## Problem Question and Output
 ##### 1. Given an array:
 
 numbers[] = {11, 7, 2, 15, 6}
