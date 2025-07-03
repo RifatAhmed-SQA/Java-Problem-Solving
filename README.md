@@ -2,25 +2,25 @@
 ## Summary:
 This Java project consists of 15 fundamental algorithmic problems, designed to strengthen understanding of:
 
--Array manipulation
+- Array manipulation
 
--String processing
+- String processing
 
--Mathematical logic
+- Mathematical logic
 
--Character and pattern analysis
+- Character and pattern analysis
 
--Real-life logic implementation
+- Real-life logic implementation
 
--Each problem includes:
+- Each problem includes:
 
--A clearly defined objective
+- A clearly defined objective
 
--Sample input
+- Sample input
 
--Expected output
+- Expected output
 
--Java implementation for automated execution
+- Java implementation for automated execution
 ## Technology
 - Java 8+
 - IntelliJ IDEA / VS Code / Eclipse (any IDE)
