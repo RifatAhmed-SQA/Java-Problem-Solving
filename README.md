@@ -99,11 +99,13 @@ One special character
 -output
 ![image](https://github.com/user-attachments/assets/cbaf4bf8-0ee8-4232-81f8-f0783c806474)
 
+
 - Remove all special characters from a string.
 
 Input: "s@atur!day"
 - output
-![image](https://github.com/user-attachments/assets/099b47f6-bfa5-4da8-aee2-80dba5f1ed13
+![image](https://github.com/user-attachments/assets/099b47f6-bfa5-4da8-aee2-80dba5f1ed13)
+
 
 -Remove all vowels from a string.
 
