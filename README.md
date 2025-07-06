@@ -125,7 +125,8 @@ Extract the digits and calculate the final cost after the discount.
 
 
 ##### output
-![image](https://github.com/user-attachments/assets/e938219f-027e-43e0-8289-cd2216a0f079)
+![image](https://github.com/user-attachments/assets/8c4203f7-6d39-481d-aa21-5855d57cc59a)
+
 
 ##### 14.Write a program to break down a given amount into currency notes.
 
